@@ -1,4 +1,4 @@
-<style>
+
     .class5{ color:chartreuse;}
     .class4{color:LightYellow}
     .class3{color:MediumPurple}
@@ -12,4 +12,12 @@
     .li3{background-color:blueviolet;}
     .li4{background-color:yellow;}
     .li5{background-color:pink;}
-    </style>
+   
+    header{text-align: center;
+    color:red;
+    font-size:40px;
+    font-family:Fantasy; }
+    
+    a:hover {
+        color: skyblue;
+      }
